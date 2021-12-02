@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/btn_solid_bg.xml" value="0.2833333333333333" />
         <entry key="app/src/main/res/drawable/btn_stroke_bg.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/drawable/edt_txt_bg.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.253125" />
       </map>
     </option>
